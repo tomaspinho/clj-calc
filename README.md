@@ -6,11 +6,11 @@ Uses instaparse for the Grammar parser and Seesaw for Swing UI components.
 
 ## Usage
 
-  # Run
-  lein run
+    # Run
+    lein run
 
-  # Make jar
-  lein uberjar
+    # Make jar
+    lein uberjar
 
 ## License
 
