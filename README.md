@@ -1,14 +1,19 @@
 # clj-calc
 
-A Clojure library designed to ... well, that part is up to you.
+A super simple calculator written in Clojure, using a Context Free Grammar and UI components.
+
+Uses instaparse for the Grammar parser and Seesaw for Swing UI components.
 
 ## Usage
 
-FIXME
+  # Run
+  lein run
+
+  # Make jar
+  lein uberjar
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Tomás Pinho
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License.
