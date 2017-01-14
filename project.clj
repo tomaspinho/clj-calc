@@ -6,5 +6,5 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [instaparse "1.4.2"]
                  [seesaw "1.4.5"]]
-  :main "clj-calc.core"
+  :main clj-calc.core
 )
